@@ -32,7 +32,7 @@ const Random = () => {
         onClick={() => fetchData()}
         className="w-10/12 bg-white text-xl py-2 rounded-lg font-bold"
       >
-        Generate.
+        Generate
       </button>
     </div>
   );
